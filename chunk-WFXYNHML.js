@@ -1,1 +1,0 @@
-import{c as a}from"./chunk-FMBN2QAC.js";import{Fb as e,vb as r}from"./chunk-CPYXMJ3X.js";var n=class t{constructor(i){this.sanitized=i}transform(i){return this.sanitized.bypassSecurityTrustHtml(i)}static \u0275fac=function(m){return new(m||t)(r(a,16))};static \u0275pipe=e({name:"safeHtml",type:t,pure:!0})};export{n as a};
